@@ -10,9 +10,6 @@ module.exports = {
     WinPrint.document.write(`<!DOCTYPE html>
         <html>
           <head>
-          <style>
-            svg { width: 100% !important; height: 100% !important; }
-          </style>
           </head>
           <body>
             ${HTML}
