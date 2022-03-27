@@ -1,5 +1,5 @@
 module.exports = {
-  print(HTML, settings) {
+  print(HTML, settings = null) {
     settings = {
       width: 800,
       height: 900,
