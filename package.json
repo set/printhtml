@@ -1,12 +1,16 @@
 {
-  "name": "printhtml",
+  "name": "printor",
   "version": "1.0.0",
-  "description": "You can print your HTML input",
+  "description": "You can print your HTML in Client-side",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/set/printor.git"
+  },
+  "keywords": ["printor", "html", "print", "printable", "react", "vue", "angular"],
+  "author": "Servet Tuncel",
   "license": "ISC"
 }
